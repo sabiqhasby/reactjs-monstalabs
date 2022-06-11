@@ -8,6 +8,17 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: Operator Mono Lig, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+.App {
+  color: black;
+}
+
+p{
+  font-size: x-large;
+  font-weight: 700;
 }
