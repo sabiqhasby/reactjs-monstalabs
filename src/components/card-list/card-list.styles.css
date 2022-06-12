@@ -1,0 +1,15 @@
+.card-list {
+   /* width: 85vw; */
+   margin: 0 auto;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-gap: 20px;
+   padding-left: 2em;
+   padding-right: 2em;
+ }
+
+ @media (min-width: 700px) {
+   .card-list {
+     font-size: 1rem;
+   }
+ }
